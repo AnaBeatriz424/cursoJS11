@@ -14,6 +14,7 @@ console.log("O array agora é:", frutas); // Saída: O array agora é: [ 'Maçã
 
 // Removendo o último elemento do array
 frutas.pop();
+
 // console.log("O array após remover o último elemento:", frutas); // Saída: O array após remover o último elemento: [ 'Maçã', 'Banana', 'Laranja', 'Uva' ]
 
 // Iterando sobre o array usando um loop 'for'
